@@ -10,10 +10,11 @@ It utilizes [ReactJS](https://react.dev), [JSONPlaceholder API](https://jsonplac
 
 ### How to Run the Project:
 
-1. Clone this repository
-2. Run `npm install` to install all necessary packages.
-3. Run `npm start` to start the application.
-4. Access the application by navigating to http://localhost:3000 in the web browser.
+1. Clone this repository.
+2. Run `cd robofriends` to navigate to the project directory.
+3. Run `npm install` to install all necessary packages.
+4. Run `npm start` to start the application.
+5. Access the application by navigating to http://localhost:3000 in the web browser.
 
 ### Preview:
 ![main](https://github.com/lethn/robofriends/assets/81248974/63f88c2f-1a2f-4f30-bd42-ab56c45cfa05)
