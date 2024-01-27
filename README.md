@@ -1,4 +1,4 @@
-# robofriends
+# RoboFriends
 
 ### Website Link: https://lethn.github.io/robofriends/
 
